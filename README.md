@@ -152,15 +152,11 @@ Patient History Tracking
 Database Integration
 Multi-Page Dashboard
 Advanced Risk Analytics
+
 👨‍💻 Author
 
 Sejal Pandey
 
-UI/UX Designer | Machine Learning Enthusiast | Developer
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
 
 📜 License
 
