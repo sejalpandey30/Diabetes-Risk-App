@@ -4,7 +4,7 @@ An AI-powered healthcare dashboard that predicts diabetes risk using Machine Lea
 
 ## 🚀 Live Demo
 
-[Add your deployed Streamlit link here]
+[https://diabetes-risk-app-001.streamlit.app/]
 
 ---
 
