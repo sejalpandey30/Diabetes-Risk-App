@@ -106,14 +106,14 @@ Final model:
 
 ## 📂 Project Structure
 Diabetes-Risk-App/
-
+```
 ├── app.py
 ├── diabetes_model.pkl
 ├── scaler.pkl
 ├── requirements.txt
 ├── README.md
 └── feature_importance.
-
+```
 
 ---
 
@@ -147,12 +147,13 @@ Assessment Analysis
 <img width="911" height="338" alt="image" src="https://github.com/user-attachments/assets/f6428d6f-2a00-4582-815b-eeb295c809e5" />
 
 🎯 Future Improvements
-SHAP Explainability
-PDF Health Reports
-Patient History Tracking
-Database Integration
-Multi-Page Dashboard
-Advanced Risk Analytics
+
+- SHAP Explainability
+- PDF Health Reports
+- Patient History Tracking
+- Database Integration
+- Multi-Page Dashboard
+- Advanced Risk Analytics
 
 👨‍💻 Author
 
