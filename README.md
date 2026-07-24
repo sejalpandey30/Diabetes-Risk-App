@@ -130,15 +130,20 @@ cd Diabetes-Risk-App
 📸 Application Preview
 
 Dashboard
+
 <img width="904" height="350" alt="image" src="https://github.com/user-attachments/assets/029d40db-c2fa-44e3-929f-0002b31cd80c" />
 
+
 Prediction Results
+
 <img width="929" height="422" alt="image" src="https://github.com/user-attachments/assets/e526abd4-9efc-4116-9eae-0c127442a8ef" />
 
 Recommendation Page
+
 <img width="811" height="395" alt="image" src="https://github.com/user-attachments/assets/0aedc154-35d2-4083-98ca-56341610e5ef" />
 
 Assessment Analysis
+
 <img width="911" height="338" alt="image" src="https://github.com/user-attachments/assets/f6428d6f-2a00-4582-815b-eeb295c809e5" />
 
 🎯 Future Improvements
